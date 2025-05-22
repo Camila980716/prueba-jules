@@ -1,0 +1,15 @@
+
+.env
+*.json
+no-me-entregaron-5d051d4e8784.json
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv/
+.vscode/
+.idea/
+*.log
